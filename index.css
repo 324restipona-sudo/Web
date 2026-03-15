@@ -1,0 +1,30 @@
+body
+{background-color: black; 
+    color: orange; 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center; 
+    margin: 10px; 
+    column-count: 2;
+    column-gap: 100px;
+}
+img {    
+    border-radius: 50px  0 50px 0;
+    border: solid 2px orange;
+}
+hi
+{
+    color: orange;
+}
+p{
+    color:white
+}
+th{
+    color: orange;
+    background-color: black;
+    border: solid 2px orange;
+    border-radius: 10px 0 10px 0;
+}
+td{color: rgb(252, 252, 252);
+    border: solid 1px white;
+    border-radius: 10px;
+}
