@@ -1,16 +1,18 @@
-body
-{background-color: black; 
+body {
+    background-color: black; 
     color: orange; 
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif; 
     margin: 10px; 
-    column-count: 2;
-    column-gap: 100px;
-}
-img {    
-    border-radius: 50px  0 50px 0;
+    }
+img { 
+    float: right;
+    margin: 15px;
+    image
+    border-radius: 50px 50px 50px 50px;
     border: solid 2px orange;
 }
-hi
+h1
 {
     color: orange;
 }
@@ -23,7 +25,10 @@ th{
     border: solid 2px orange;
     border-radius: 10px 0 10px 0;
 }
-td{color: rgb(252, 252, 252);
+td{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(252, 252, 252);
     border: solid 1px white;
-    border-radius: 10px;
 }
