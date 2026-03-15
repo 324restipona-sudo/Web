@@ -2,7 +2,6 @@ body
 {background-color: black; 
     color: orange; 
     font-family: Arial, Helvetica, sans-serif; 
-    text-align: center; 
     margin: 10px; 
     column-count: 2;
     column-gap: 100px;
