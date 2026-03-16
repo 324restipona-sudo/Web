@@ -1,13 +1,14 @@
 body {
-    background-color: blue; 
+    background-color: black; 
     color: orange; 
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif; 
-    margin: 10px; 
+    margin: 10px;
+    column-count: 2; 
     }
 img {
     background-color: black; 
-    float: right;
+    float: behind text;
     margin: 15px;
     border-radius: 50px 50px 50px 50px;
     border: solid 2px orange;
